@@ -1,0 +1,15 @@
+C:\Users\alena\source\repos\deathnote\deathnote\bin\Debug\net6.0\deathnote.exe
+C:\Users\alena\source\repos\deathnote\deathnote\bin\Debug\net6.0\deathnote.deps.json
+C:\Users\alena\source\repos\deathnote\deathnote\bin\Debug\net6.0\deathnote.runtimeconfig.json
+C:\Users\alena\source\repos\deathnote\deathnote\bin\Debug\net6.0\deathnote.dll
+C:\Users\alena\source\repos\deathnote\deathnote\bin\Debug\net6.0\deathnote.pdb
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.csproj.AssemblyReference.cache
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.AssemblyInfoInputs.cache
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.AssemblyInfo.cs
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.csproj.CoreCompileInputs.cache
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.dll
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\refint\deathnote.dll
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.pdb
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\deathnote.genruntimeconfig.cache
+C:\Users\alena\source\repos\deathnote\deathnote\obj\Debug\net6.0\ref\deathnote.dll
